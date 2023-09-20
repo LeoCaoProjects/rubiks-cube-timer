@@ -1750,8 +1750,6 @@ def main():                  #Main function for all variables
 
     main_window.geometry('%dx%d+%d+%d' % (width, height, x, y))
 
-    main_window.minsize(740, 380)
-    main_window.maxsize(1100, 600)
     #main_window.resizable(False, False)
 
     main_window.title("Cube Timer Assessment - Leo Cao")
